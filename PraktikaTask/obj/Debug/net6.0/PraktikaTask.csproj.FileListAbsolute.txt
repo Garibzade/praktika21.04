@@ -1,0 +1,14 @@
+C:\Users\Qarib\Desktop\c#\PraktikaTask\bin\Debug\net6.0\PraktikaTask.exe
+C:\Users\Qarib\Desktop\c#\PraktikaTask\bin\Debug\net6.0\PraktikaTask.deps.json
+C:\Users\Qarib\Desktop\c#\PraktikaTask\bin\Debug\net6.0\PraktikaTask.runtimeconfig.json
+C:\Users\Qarib\Desktop\c#\PraktikaTask\bin\Debug\net6.0\PraktikaTask.dll
+C:\Users\Qarib\Desktop\c#\PraktikaTask\bin\Debug\net6.0\PraktikaTask.pdb
+C:\Users\Qarib\Desktop\c#\PraktikaTask\obj\Debug\net6.0\PraktikaTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qarib\Desktop\c#\PraktikaTask\obj\Debug\net6.0\PraktikaTask.AssemblyInfoInputs.cache
+C:\Users\Qarib\Desktop\c#\PraktikaTask\obj\Debug\net6.0\PraktikaTask.AssemblyInfo.cs
+C:\Users\Qarib\Desktop\c#\PraktikaTask\obj\Debug\net6.0\PraktikaTask.csproj.CoreCompileInputs.cache
+C:\Users\Qarib\Desktop\c#\PraktikaTask\obj\Debug\net6.0\PraktikaTask.dll
+C:\Users\Qarib\Desktop\c#\PraktikaTask\obj\Debug\net6.0\refint\PraktikaTask.dll
+C:\Users\Qarib\Desktop\c#\PraktikaTask\obj\Debug\net6.0\PraktikaTask.pdb
+C:\Users\Qarib\Desktop\c#\PraktikaTask\obj\Debug\net6.0\PraktikaTask.genruntimeconfig.cache
+C:\Users\Qarib\Desktop\c#\PraktikaTask\obj\Debug\net6.0\ref\PraktikaTask.dll
